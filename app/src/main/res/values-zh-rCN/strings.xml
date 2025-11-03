@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XCUI</string>
+    <string name="general_text_dialog">通用的文字提示弹窗</string>
+</resources>

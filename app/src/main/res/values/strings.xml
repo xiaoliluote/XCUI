@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">XCUI</string>
+    <string name="general_text_dialog">General text prompt dialog</string>
 </resources>

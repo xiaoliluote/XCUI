@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "XCUI"
 include(":app")
- 
+include(":ui")
